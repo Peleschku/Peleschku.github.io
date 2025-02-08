@@ -6,7 +6,7 @@ title: About
 # About Page
 
 <div align="center">
-    ![A picture of me](/assets/img/about_me/me.png)
+    <img src="/assets/img/about-me/me.png">
 </div>
 <div align="center">
     <h1>Hello There!</h1>
